@@ -1,6 +1,5 @@
-const text = document.getElementById('text');
-const count = document.getElementById('count');
+# JS Character Counter
 
-text.addEventListener('input', ()=>{
-  count.innerText = text.value.length;
-});
+A live character counter built using JavaScript.
+
+This project demonstrates real-time input handling and DOM updates.
